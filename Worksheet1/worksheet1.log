@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.28)  29 AUG 2025 00:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.28)  29 AUG 2025 00:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**e:/KIKI/MULMED/Worksheet1/worksheet1.tex
-(e:/KIKI/MULMED/Worksheet1/worksheet1.tex
+**e:/KIKI/MULMED/Sistem-Teknologi-Multimedia/Worksheet1/worksheet1.tex
+(e:/KIKI/MULMED/Sistem-Teknologi-Multimedia/Worksheet1/worksheet1.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
 (C:\Users\acerl\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -1159,7 +1159,7 @@ See the caption package documentation for explanation.
 
 
 [15]
-runsystem(latexminted cleantemp  --timestamp 20250829002405 02769E55BEA06EE946CC42FC49303350)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20250829003411 02769E55BEA06EE946CC42FC49303350)...disabled (restricted).
 
  (worksheet1.aux)
  ***********
@@ -1171,12 +1171,12 @@ Package rerunfilecheck Info: File `worksheet1.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  35072 strings out of 468133
- 662875 string characters out of 5430719
+ 663127 string characters out of 5430719
  1841130 words of memory out of 5000000
  62569 multiletter control sequences out of 15000+600000
  686834 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,12n,93p,3264b,2181s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,12n,93p,3292b,2181s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/acerl/AppData/Local/Programs/MiKTeX/fonts/type1/bera/fvmb8a.pfb><C:/Users/acerl/AppData/Local/Programs/MiKTeX/fonts/type1/bera/fvmr8a.pfb><C:/Users/acerl/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/acerl/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/acerl/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/acerl/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/acerl/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/acerl/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/acerl/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
 Output written on worksheet1.pdf (15 pages, 801319 bytes).
 PDF statistics:
