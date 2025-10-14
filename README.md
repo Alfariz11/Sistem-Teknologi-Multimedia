@@ -20,5 +20,5 @@ Pastikan environment Python Anda telah aktif sebelum melakukan instalasi library
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/Alfariz11/Sistem-Teknologi-Multimedia.git
+
