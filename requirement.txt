@@ -1,0 +1,12 @@
+librosa
+soundfile
+scipy
+opencv-python
+Pillow
+scikit-image
+matplotlib
+moviepy
+ffmpeg-python
+numpy
+pandas
+jupyter
