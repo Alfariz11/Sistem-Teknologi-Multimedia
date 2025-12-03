@@ -4,6 +4,7 @@
 *   **Nama:** Rizki Alfariz Ramadhan
 *   **NIM:** 122140061
 *   **Program Studi:** Teknik Informatika
+*   **Repository:** [GitHub Link](https://github.com/Alfariz11/Sistem-Teknologi-Multimedia/tree/main/rPPG)
 
 ---
 ## 1. Penjelasan
